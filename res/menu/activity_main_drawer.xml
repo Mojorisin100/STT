@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- We will populate real sessions programmatically,
+         but you can add placeholders or static items if you like. -->
+    <item
+        android:id="@+id/nav_dummy"
+        android:title="Dummy Session"/>
+</menu>

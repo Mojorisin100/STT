@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">STT</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="header_image">Speech to Text Header</string>
+
+</resources>

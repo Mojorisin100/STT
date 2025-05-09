@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Refined Grayscale Theme -->
+    <color name="backgroundColor">#F5F5F5</color> <!-- Off-white background -->
+    <color name="textColor">#222222</color>         <!-- Dark text -->
+    <color name="iconTint">#444444</color>           <!-- Medium dark gray icons -->
+    <color name="colorAccent">#FF9800</color>         <!-- Warm accent (orange) -->
+    <color name="selectionOverlay">#20000000</color>   <!-- 12.5% opaque black overlay -->
+    <color name="red">#FF0000</color>
+
+</resources>

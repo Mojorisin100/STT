@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Single App Theme using AppCompat Light with no ActionBar -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/backgroundColor</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textSelectHandle">@drawable/handle_transparent</item>
+        <item name="android:textSelectHandleLeft">@drawable/handle_transparent</item>
+        <item name="android:textSelectHandleRight">@drawable/handle_transparent</item>
+    </style>
+    <style name="NoBorderEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:backgroundTint">@android:color/transparent</item>
+    </style>
+</resources>
